@@ -1,5 +1,5 @@
 {
-  "name": "pino-http-print",
+  "name": "@unicsmcr/pino-http-print",
   "version": "2.1.0",
   "description": "Debug HTTP printer for pino",
   "main": "index.js",
@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pinojs/pino-http-print.git"
+    "url": "git+https://github.com/unicsmcr/pino-http-print.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/pinojs/pino-http-print/issues"
+    "url": "https://github.com/unicsmcr/pino-http-print/issues"
   },
-  "homepage": "https://github.com/pinojs/pino-http-print#readme"
+  "homepage": "https://github.com/unicsmcr/pino-http-print#readme"
 }
